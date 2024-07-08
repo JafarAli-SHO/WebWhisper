@@ -7,3 +7,5 @@ install libraries using the below command
 
 run the script using the command listed below
 # python3 WebWhisper.py -u target_url 
+
+![webwhisper](https://github.com/JafarAli-SHO/WebWhisper/assets/106411544/f5d0dbfe-06c9-4775-9540-8e8bee23cec8)
