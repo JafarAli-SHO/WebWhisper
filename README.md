@@ -3,5 +3,5 @@ WebWhisper is a professional web crawling and analysis tool designed for red tea
 # Usage
 clone the repository
 install libraries using the below command 
-pip install requests
-python3 WebWhisper.py -u target_url 
+# pip install requests
+# python3 WebWhisper.py -u target_url 
